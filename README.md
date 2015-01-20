@@ -1,2 +1,2 @@
 # javascripting
-Tutorial files
+Tutorial files for Nodeschool javascripting course. 
